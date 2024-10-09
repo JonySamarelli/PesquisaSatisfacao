@@ -2,7 +2,7 @@
   "name": "PesquisaSatisfacao",
   "short_name": "PesquisaSatisfacao",
   "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "background_color": "#6e35ae",
   "orientation":"landscape",
   "display": "fullscreen",
   "scope": "./",
